@@ -111,7 +111,7 @@ Consider [SecondLife](http://www.secondlife.com), an online 3D virtual world tha
 
 The early results of switching showed that there was a 50 to 150 times performance increase in switching from LSL/interpreted to LSL/Mono.
 
-The [Unity3D](http://unity3d.com) game design engine uses Mono to provide scripting capabilities to the applications and games built with it by supporting Boo, C# and UnityScript (a strongly-typed version of Javascript which helps make the code faster).
+The [Unity3D](http://unity3d.com) game design engine uses Mono to provide scripting capabilities to the applications and games built with it by supporting C#.
 
 Language Support
 ----------------
